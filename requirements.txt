@@ -1,0 +1,5 @@
+streamlit[auth]>=1.40.0
+pandas
+plotly
+psycopg2-binary
+python-dotenv
